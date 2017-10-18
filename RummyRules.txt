@@ -1,0 +1,73 @@
+Players
+2 to 6 players.
+
+Deck
+Standard 52-card deck.
+
+
+King is high; Ace is low. (See "Ace Either High or Low" below for a common variant.)
+
+Goal
+To be the first to play ("meld") all of your cards.
+
+Setup
+Shuffle the deck and choose a dealer. The dealer will deal cards to the players as follows:
+
+With two players, 10 cards each.
+With three or four players, 7 cards each.
+With five or six players, 6 cards each.
+Cards which are not dealt are placed face down in the middle of the table to form the draw pile. Turn the top card from the draw pile face up and set it next to the draw pile; this card begins the discard pile.
+
+Gameplay
+On each turn, players must follow this sequence:
+
+(1) Draw one card, either from the top of the draw pile or the top of the discard pile.
+
+(2) The player may (but does not have to) play a meld of cards (see "Melds" below) or add to another player's meld (see "Laying Off" below).
+
+(3) The player must discard one card, adding it (face up) to the top of the discard pile.
+
+There is one exception to the requirement that you discard: If a player has melded all of his cards, he does not need to discard.
+
+NOTE: If a player chose to draw the top card from the discard pile in step 1, he may not discard that card on the same turn in step 3.
+
+Melds
+A meld of cards can be played if it meets one of two conditions:
+
+
+Groups (or Books): Three or four of a kind.
+Sequences (or Runs): Three or more consecutive cards of the same suit.
+NOTE: When making a sequence in basic Rummy, the Ace is always a low card. It may not be played above the King.
+
+Laying Off
+A player may play a card or cards from his hand that fits a meld already on the table. This is known as "laying off." Cards which are laid off get placed on the table in front of the player who plays them.
+
+EXAMPLE: Tom has played a meld that includes three 8s. Dana can lay off an 8 from her hand.
+
+EXAMPLE: Nora has played a meld that includes the 8-9-10 of Hearts. Dave can lay off the 7 of Hearts or the Jack of Hearts, or both, from his hand.
+
+EXAMPLE: Mark has played a meld that includes the 3-4-5 of Clubs. Amy can lay off the 6 and 7 of Clubs from her hand.
+
+Going Out
+A player "goes out" when he plays the last card in his hand either by melding, laying off or discarding.
+
+NOTE: Some players require that the final card in a player's hand be discarded. That is, a player cannot go out by melding or laying off. He must discard the final card.
+
+Scoring
+When a player goes out, the round is scored. All of the cards remaining in other players' hands are credited to the winner of the hand, as follows:
+
+
+Aces are worth 1 point.
+Number cards are worth face value.
+Face cards are worth 10 points each.
+Going Rummy
+A player "goes rummy" if he plays all of his cards (in any combination of melding, laying off, and discarding) in a single play, having played no cards at all previously during that hand. When a player goes rummy, all points are doubled for that hand.
+
+Ace Either High or Low
+Some players play that the Ace can be either low card (as it normally is, as in A-2-3) or high card (so that a meld of Q-K-A would also be legal). If playing this way, Aces should be counted as 15 points each in scoring to better reflect their value.
+
+Exhausting the Draw Pile
+If the draw pile is exhausted (all cards are taken), shuffle all of the cards in the discard pile except for the one on top to form a new draw pile.
+
+Winning
+The first player to reach a predetermined number of points (such as 150), or to have the most points after a predetermined number of hands are played, is the winner.
